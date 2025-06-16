@@ -7,7 +7,7 @@
 **Rol de interés en la industria de videojuegos:** Narrador interactivo / Diseñador de historia  
 **Perfil:** Psicólogo, escritor y desarrollador de software con experiencia en proyectos narrativos y educativos. Actualmente resido en Australia, donde combino mi formación literaria con el desarrollo de experiencias digitales interactivas. Me interesa explorar el potencial narrativo de los videojuegos como medio expresivo.
 
-![Foto de mi plato favorito](Carlos/ramen.jpg)
+![Foto de mi plato favorito](https://delishglobe.com/recipe/colombian-bandeja-paisa-paisa-platter/)
 
 ## Nota sobre el trabajo en equipo
 

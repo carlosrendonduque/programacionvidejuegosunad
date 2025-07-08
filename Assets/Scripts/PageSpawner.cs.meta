@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: d65ef8ee5c00aab4aadafef68331032b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fallingPagePrefab: {fileID: 4589961267235613465, guid: 1c0adbaee27dcd146ab05e2ab230938f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
